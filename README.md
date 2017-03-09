@@ -2,7 +2,7 @@
 
 A trained Linear SVM to detect and track vehicles on road. SVM was trained these [vehicles](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non vehicles](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) datasets. These example images come from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), and [the KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/)
 
-![animation](animated.gif)
+![animation of video](animated.gif)
 
 # Pipeline
 
